@@ -1,0 +1,28 @@
+.card_wrap{
+    flex: 1 0 21%;
+    width: 30%;
+    margin-left: 15px;
+    margin-top: 20px;
+    /* background-color: rgb(228,245,254); */
+    border-radius: 15px;
+}
+.card_wrap img{
+    max-width: 320px;
+    margin-left: 15px;
+    margin-top: 20px;
+    aspect-ratio: 16/9;
+}
+
+.card_wrap h4{
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+.card_wrap p{
+    margin-top: 0;
+    margin-left: 20px;
+    color: #0d0543;
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 1.6;
+    
+}
